@@ -1,0 +1,45 @@
+
+[
+    {
+        "id": 101,
+        "name": "Baxter",
+        "age":  3,
+        "type": "dog"
+    },
+    {
+        "id": 102,
+        "name": "Wally",
+        "age":  3,
+        "type": "dog"
+    },
+    {
+        "id":   103,
+        "name": "Austin",
+        "age":  24,
+        "type": "human"
+    },
+    {
+        "id":   104,
+        "name": "Mike",
+        "age":  55,
+        "type": "human"
+    },
+    {
+        "id":   105,
+        "name": "Nannie",
+        "age":  84,
+        "type": "human"
+    },
+    {
+        "id":   106,
+        "name": "Mamall",
+        "age":  81,
+        "type": "human"
+    },
+    {
+        "id":   107,
+        "name": "Papall",
+        "age":  81,
+        "type": "human"
+    }
+]
